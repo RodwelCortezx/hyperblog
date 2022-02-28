@@ -5,5 +5,7 @@ El primer texto  que si quiero modificar y hablamremos de su vida
  
 Ricardo es un colaborador del proyecto open source
 
+Master 1
+
  Naci en Guatemala
 
