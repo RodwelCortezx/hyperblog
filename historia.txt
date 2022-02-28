@@ -3,7 +3,7 @@ Esta es mi historia
 
 El primer texto  que si quiero modificar y hablamremos de su vida
  
-Ricardo, Soy el otro colaborador, naci en internet
+Ricardo es un colaborador del proyecto open source
 
  Naci en Guatemala
 
